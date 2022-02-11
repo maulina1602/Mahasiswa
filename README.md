@@ -1,2 +1,2 @@
-# Mahasiswa
-Praktikum :: Aplikasi Mahasiswa Berbasis WEB
+# Praktikum
+Aplikasi Mahasiswa Berbasis WEB
